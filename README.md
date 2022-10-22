@@ -6,6 +6,6 @@ The presented notebooks are the outputs of a set of PC labs for the [Finance wit
  - Tancredi Marcianò [Linkedin](https://www.linkedin.com/in/tancredimarciano/) | [Github](https://github.com/tancredimarciano)
  - Arturo Bagnara [Linkedin](https://www.linkedin.com/in/arturo-mario-bagnara/) | [Github](https://github.com/arturo-bagnara)
  
-The topics covered range from the application of classical financial theory (e.g. Markowitz Portfolio Theory, Capital Asset Pricing Model etc.), to more complex machine learning models both for stocks prices prediction and for making inference on historical data.  
+The topics covered range from the application of classical financial theory (e.g. Markowitz Portfolio Theory, Capital Asset Pricing Model etc.), to more complex machine learning models both for stocks prices prediction, making inference on historical data sentiment analysis and more.  
 Each notebook deals with a different task and will therefore have its own data folder. 
  
